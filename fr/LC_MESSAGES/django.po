@@ -1302,6 +1302,14 @@ msgstr "Ouvrir un compte"
 msgid "login"
 msgstr "Connexion"
 
+#: kpi/templates/registration/registration_form.html:8
+msgid "KoBoToolbox is an integrated set of tools for building forms and collecting interview responses."
+msgstr "Survea est une suite d'outils pour créer, collecter des formulaires intéractifs."
+
+#: kpi/templates/registration/registration_form.html:8
+msgid "Create Account"
+msgstr "Créer un compte"
+
 #: kpi/views.py:418
 msgid "No key provided"
 msgstr "Aucune clé fournie"
@@ -1309,3 +1317,27 @@ msgstr "Aucune clé fournie"
 #: kpi/views.py:435
 msgid "Invalid or expired key"
 msgstr "Clé invalide ou expirée"
+
+#: kpi/templates/registration/activation_email_subject.txt:8
+msgid "Activate your KoBoToolbox Account"
+msgstr "Activez votre compte Survea"
+
+#: kpi/templates/registration/activation_email.txt:8
+msgid "Thanks for signing up with KoBoToolbox!"
+msgstr "Merci de vous être inscrit sur Survea"
+
+#: kpi/templates/registration/activation_email.txt:8
+msgid "Confirming your account will give you full access to KoBoToolbox applications. Please visit the following url to finish activation of your new account."
+msgstr "En confirmant votre compte, vous aurez accès à toutes les applications de Survea. Merci de cliquer sur le lien suivant pour activer votre compte"
+
+#: kpi/templates/registration/activation_email.txt:8
+msgid "KoBoToolbox"
+msgstr "Survea"
+
+#: kpi/templates/registration/activation_email.txt:8
+msgid "User"
+msgstr "Utilisateur"
+
+#: kpi/templates/registration/activation_email.txt:8
+msgid "Please visit http://help.kobotoolbox.org to find information on how to get started. There you can also post questions to the community (recommended) or to us directly."
+msgstr " "
