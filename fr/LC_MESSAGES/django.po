@@ -1288,11 +1288,11 @@ msgstr "Compte créé!"
 
 #: kpi/templates/registration/registration_complete.html:12
 msgid "Thanks for creating a KoBoToolbox account."
-msgstr "Merci d'avoir créé un compte KoBoToolbox."
+msgstr "Merci d'avoir créé un compte Survea."
 
 #: kpi/templates/registration/registration_complete.html:15
 msgid "Please click the activation link in the email just sent to you."
-msgstr "Veuillez cliquer sur le lien d'activation dans l'e-mail que'on vient de vous envoyer."
+msgstr "Un administrateur Survea vous contactera dès que possible."
 
 #: kpi/templates/registration/registration_form.html:26
 msgid "Create an account"
