@@ -1304,7 +1304,7 @@ msgstr "Connexion"
 
 #: kpi/templates/registration/registration_form.html:8
 msgid "KoBoToolbox is an integrated set of tools for building forms and collecting interview responses."
-msgstr "Survea est une suite d'outils pour créer, collecter des formulaires intéractifs."
+msgstr "Survea est une suite d'outils pour créer et collecter des formulaires intéractifs."
 
 #: kpi/templates/registration/registration_form.html:8
 msgid "Create Account"
