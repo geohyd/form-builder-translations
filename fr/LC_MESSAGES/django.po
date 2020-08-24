@@ -20,6 +20,10 @@ msgstr ""
 "Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
+msgid "username"
+msgstr "Nom d'utilisateur (Antea : jd1234 - IRH : jdurand)"
+
+
 #: kobo/apps/reports/report_data.py:150
 msgid "`split_by` field '{}' not found."
 msgstr ""
@@ -1348,4 +1352,4 @@ msgstr "Connexion"
 
 #: kpi/templates/registration/login.html:8
 msgid "Projects | KoBoToolbox"
-msgstr "Projets | Survea"
+msgstr "Survea - Projets"
