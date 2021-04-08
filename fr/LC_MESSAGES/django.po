@@ -55,7 +55,7 @@ msgid ""
 "`[{\"email__iendswith\": \"@kobotoolbox.org\"}, {\"email__iendswith\": "
 "\"@kbtdev.org\"}]`. A matching user is one who would be returned by ANY of "
 "the queries in the list."
-msgstr "Une représentation JSON de la *liste* des requêtes Django, par ex : `[{\"email__iendswith\": \"@kobotoolbox.org\"}, {\"email__iendswith\": \"@kbtdev.org\"}]`. Un utilisateur correspondant est quelqu'un qui sera retourné par TOUTES les requêtes de la liste."
+msgstr "Une représentation JSON de la *liste* des requêtes Django, par ex : `[{\"email__iendswith\": \"@anteagroup.fr\"}, {\"email__iendswith\": \"@anteagroup.com\"}]`. Un utilisateur correspondant est quelqu'un qui sera retourné par TOUTES les requêtes de la liste."
 
 #: hub/models.py:103
 msgid "JSON structure is incorrect."
@@ -2279,25 +2279,25 @@ msgstr "Cliquez ici pour créer un nouveau compte"
 
 #: kpi/templates/registration/activation_email.txt:2
 msgid "Thanks for signing up with KoBoToolbox!"
-msgstr "Merci de vous êtes inscrit(e) à KoBoToolbox!"
+msgstr "Merci de vous êtes inscrit(e) à Survea!"
 
 #: kpi/templates/registration/activation_email.txt:4
 msgid ""
 "Confirming your account will give you full access to KoBoToolbox "
 "applications. Please visit the following url to finish activation of your "
 "new account."
-msgstr "En confirmant votre compte, vous aurez un accès complet aux applications KoBoToolBox. Veuillez svp visiter l'adresse suivante pour finaliser l'activation de votre nouveau compte."
+msgstr "En confirmant votre compte, vous aurez un accès complet aux applications Survea. Veuillez svp visiter l'adresse suivante pour finaliser l'activation de votre nouveau compte."
 
 #: kpi/templates/registration/activation_email.txt:10
 msgid ""
 "Please visit http://help.kobotoolbox.org to find information on how to get "
 "started. There you can also post questions to the community (recommended) or"
 " to us directly."
-msgstr "Veuillez visiter http://help.kobotoolbox.org afin de trouver l'information nécessaire pour commencer. Vous pourrez aussi poser des questions à la communauté (recommandé) ou  directement à nous."
+msgstr "Veuillez contacter la DRI pour avoir plus d'information."
 
 #: kpi/templates/registration/activation_email_subject.txt:2
 msgid "Activate your KoBoToolbox Account"
-msgstr "Activez votre compte KoBoToolbox"
+msgstr "Activez votre compte Survea"
 
 #: kpi/templates/registration/login.html:12
 msgid "Forgot?"
@@ -2346,11 +2346,11 @@ msgstr "Compte créé!"
 
 #: kpi/templates/registration/registration_complete.html:11
 msgid "Thanks for creating a KoBoToolbox account."
-msgstr "Merci d'avoir créé un compte KoBoToolbox."
+msgstr "Merci d'avoir créé un compte Survea."
 
 #: kpi/templates/registration/registration_complete.html:14
 msgid "Please click the activation link in the email just sent to you."
-msgstr "Veuillez cliquer sur le lien d'activation dans le courriel qu’on vient de vous envoyer."
+msgstr "Un administrateur Survea vous contactera dès que possible."
 
 #: kpi/templates/registration/registration_form.html:28
 msgid "Create an account"

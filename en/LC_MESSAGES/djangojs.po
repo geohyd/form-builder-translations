@@ -195,7 +195,7 @@ msgid ""
 "contact us at help@kobotoolbox.org so we can fix this bug!"
 msgstr ""
 "This question could not be imported. Please re-create it manually. Please "
-"contact us at help@kobotoolbox.org so we can fix this bug!"
+"contact the DIR so we can fix this bug!"
 
 #: xlform/src/view.rowDetail.SkipLogic.coffee:262 js/i18nMissingStrings.es6:129
 msgid "response value"
@@ -300,7 +300,7 @@ msgstr "please check your connection and try again."
 
 #: js/actions.es6:400
 msgid "if this problem persists, contact help@kobotoolbox.org"
-msgstr "if this problem persists, contact help@kobotoolbox.org"
+msgstr "if this problem persists, contact DRI"
 
 #: js/actions.es6:407
 msgid "your form id was not valid:"
@@ -1316,7 +1316,7 @@ msgstr ""
 
 #: js/components/helpBubbles.es6:418
 msgid "KoBoToolbox Help Center"
-msgstr ""
+msgstr "Survea Help Center"
 
 #: js/components/helpBubbles.es6:419
 msgid ""
@@ -1325,7 +1325,7 @@ msgstr ""
 
 #: js/components/helpBubbles.es6:429
 msgid "KoBoToolbox Community Forum"
-msgstr ""
+msgstr "Survea Community Forum"
 
 #: js/components/helpBubbles.es6:430
 msgid ""
@@ -1908,7 +1908,7 @@ msgid ""
 "Help KoboToolbox improve this product by sharing the sector and country "
 "where this project will be deployed."
 msgstr ""
-"Help KoboToolbox improve this product by sharing the sector and country "
+"Help Survea improve this product by sharing the sector and country "
 "where this project will be deployed."
 
 #: js/components/modalForms/projectSettings.es6:854
@@ -3158,8 +3158,7 @@ msgid ""
 "\">help@kobotoolbox.org</a>."
 msgstr ""
 "The server encountered an error while trying to deploy the project. If this "
-"problem persists, please contact <a href=\"mailto:help@kobotoolbox.org"
-"\">help@kobotoolbox.org</a>."
+"problem persists, please contact the DRI."
 
 #: js/i18nMissingStrings.es6:115
 msgid "The form id was not valid."

@@ -195,7 +195,7 @@ msgstr "Note : Le type Tableau de questions fonctionne seulement dans les formul
 msgid ""
 "This question could not be imported. Please re-create it manually. Please "
 "contact us at help@kobotoolbox.org so we can fix this bug!"
-msgstr "Cette question ne peut être importée. Veuillez la recréer manuellement. Veuillez nous contacter au help@kobotoolbox.org pour que nous puissions régler l'anomalie!"
+msgstr "Cette question ne peut être importée. Veuillez la recréer manuellement. Veuillez contacter la DRI pour que nous puissions régler l'anomalie!"
 
 #: xlform/src/view.rowDetail.SkipLogic.coffee:262
 #: js/i18nMissingStrings.es6:129
@@ -302,7 +302,7 @@ msgstr "Veuillez vérifier votre connexion et réessayez."
 
 #: js/actions.es6:400
 msgid "if this problem persists, contact help@kobotoolbox.org"
-msgstr "Si ce problème persiste, contactez <a href=\"mailto:help@kobotoolbox.org\">help@kobotoolbox.org</a>"
+msgstr "Si ce problème persiste, contactez la DRI</a>"
 
 #: js/actions.es6:407
 msgid "your form id was not valid:"
@@ -1310,7 +1310,7 @@ msgstr "Centre d'aide"
 
 #: js/components/helpBubbles.es6:418
 msgid "KoBoToolbox Help Center"
-msgstr "Centre d'aide de KoBoToolbox"
+msgstr "Centre d'aide de Survea"
 
 #: js/components/helpBubbles.es6:419
 msgid ""
@@ -1319,7 +1319,7 @@ msgstr "Une collection vaste d'articles et de tutoriels pour le support utilisat
 
 #: js/components/helpBubbles.es6:429
 msgid "KoBoToolbox Community Forum"
-msgstr "Forum de la communauté de KoBoToolbox"
+msgstr "Forum de la communauté de Survea"
 
 #: js/components/helpBubbles.es6:430
 msgid ""
@@ -1892,7 +1892,7 @@ msgstr "Veuillez spécifier le pays et le secteur dans lequel ce projet sera dé
 msgid ""
 "Help KoboToolbox improve this product by sharing the sector and country "
 "where this project will be deployed."
-msgstr "Aidez KoboToolbox à améliorer ce produit en partageant le secteur et le pays où ce projet sera déployé."
+msgstr "Aidez Survea à améliorer ce produit en partageant le secteur et le pays où ce projet sera déployé."
 
 #: js/components/modalForms/projectSettings.es6:854
 msgid ""
@@ -3120,7 +3120,7 @@ msgid ""
 "The server encountered an error while trying to deploy the project. If this "
 "problem persists, please contact <a "
 "href=\"mailto:help@kobotoolbox.org\">help@kobotoolbox.org</a>."
-msgstr "Le serveur a rencontré une erreur lors de la tentative de déploiement du projet. Si ce problème persiste, contactez <a href=\"mailto:support@kobotoolbox.org\">help@kobotoolbox.org</a>."
+msgstr "Le serveur a rencontré une erreur lors de la tentative de déploiement du projet. Si ce problème persiste, contactez la DRI</a>."
 
 #: js/i18nMissingStrings.es6:115
 msgid "The form id was not valid."
