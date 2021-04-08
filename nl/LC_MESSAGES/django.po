@@ -56,6 +56,10 @@ msgid ""
 "\"@kbtdev.org\"}]`. A matching user is one who would be returned by ANY of "
 "the queries in the list."
 msgstr ""
+"A JSON representation of a *list* of Django queries, e.g. "
+"`[{\"email__iendswith\": \"@anteagroup.fr\"}, {\"email__iendswith\": "
+"\"@anteagroup.com\"}]`. A matching user is one who would be returned by ANY of "
+"the queries in the list."
 
 #: hub/models.py:103
 msgid "JSON structure is incorrect."
@@ -2279,7 +2283,7 @@ msgstr ""
 
 #: kpi/templates/registration/activation_email.txt:2
 msgid "Thanks for signing up with KoBoToolbox!"
-msgstr ""
+msgstr "Thanks for signing up with Survea!"
 
 #: kpi/templates/registration/activation_email.txt:4
 msgid ""
@@ -2287,6 +2291,9 @@ msgid ""
 "applications. Please visit the following url to finish activation of your "
 "new account."
 msgstr ""
+"Confirming your account will give you full access to Survea "
+"applications. Please visit the following url to finish activation of your "
+"new account."
 
 #: kpi/templates/registration/activation_email.txt:10
 msgid ""
@@ -2294,10 +2301,13 @@ msgid ""
 "started. There you can also post questions to the community (recommended) or"
 " to us directly."
 msgstr ""
+"Please contact the French DRI to find information on how to get "
+"started. There you can also post questions to the community (recommended) or"
+" to us directly."
 
 #: kpi/templates/registration/activation_email_subject.txt:2
 msgid "Activate your KoBoToolbox Account"
-msgstr ""
+msgstr "Activate your Survea Account"
 
 #: kpi/templates/registration/login.html:12
 msgid "Forgot?"
@@ -2346,7 +2356,7 @@ msgstr ""
 
 #: kpi/templates/registration/registration_complete.html:11
 msgid "Thanks for creating a KoBoToolbox account."
-msgstr ""
+msgstr "Thanks for creating a Survea account."
 
 #: kpi/templates/registration/registration_complete.html:14
 msgid "Please click the activation link in the email just sent to you."
